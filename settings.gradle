@@ -1,0 +1,3 @@
+rootProject.name = 'zoo-jdbctemplate'
+include 'model'
+include 'view'
